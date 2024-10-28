@@ -1,1 +1,1 @@
-# Cálculo diferencial com Python
+# Cálculo integral com Python
